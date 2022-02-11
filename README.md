@@ -11,8 +11,9 @@ A C program that emulates a Unix Shell.
 * shell.c 
 * README.md 
 
-## Compile Instructions
+## Compile and Start Program Instructions
 * Enter the command `make` in the Unix terminal from this repository to compile the micro shell program.
+* Enter the command `msh` to run the micro shell
 * Enter the command `make clean` in the Unix terminal to remove the executable and any other generated files.
     * This will allow smooth recompilation with make
 
