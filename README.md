@@ -10,6 +10,7 @@ A C program that emulates a Unix Shell.
 * processes.c 
 * shell.c 
 * README.md 
+* Shell Emulator Diagrams.pdf
 
 ## Compile and Start Program Instructions
 * Enter the command `make` in the Unix terminal from this repository to compile the micro shell program.
